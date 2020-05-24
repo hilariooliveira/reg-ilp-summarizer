@@ -1,0 +1,5 @@
+The case focuses on Microsoft's Windows, the operating system that controls about 90 percent of all personal computers sold today.
+Microsoft asserts that the case is intended to give the government control over which features can be added to Windows.
+The government says that Microsoft's contracts with computer manufacturers and with companies that provide access to the Internet illegally stifle competition.
+The contracts prohibit manufacturers from substituting Netscape Communications Corp.'s Navigator browser for Microsoft's Internet Explorer.
+The 12-person witness list for the Justice Department and 20 states suing Microsoft reflects the new evidence added to the case since May.
